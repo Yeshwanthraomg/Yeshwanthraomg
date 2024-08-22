@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeshwanthrao M G</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
-- 🌱 I’m currently Working as **Associate Software Engineer**
+- 🌱 I’m currently learning **Frameworks and other technologies**
 
 - 📫 How to reach me: **[yeshwanthrao478@gmail.com](mailto:yeshwanthrao478@gmail.com)**
 
@@ -39,19 +39,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JDBC" width="40" height="40"/>
   </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hibernate_ORM_logo.svg" alt="Hibernate" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/java/technologies/servlets.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Servlet" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Java_Servlet.png/320px-Java_Servlet.png" alt="Servlet" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Spring_Framework_Logo.png/320px-Spring_Framework_Logo.png" alt="Spring" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Spring_Framework_Logo_2018.png" alt="Spring" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Spring_Framework_Logo_2018.png" alt="Spring Boot" width="40" height="40"/>
   </a>
   <a href="https://microservices.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Microservices_Architecture.png/800px-Microservices_Architecture.png" alt="Microservices" width="40" height="40"/>
+    <img src="https://microservices.io/images/microservices-architecture.png" alt="Microservices" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
     <img src="https://spring.io/img/projects/spring-security.svg" alt="Spring Security" width="40" height="40"/>
