@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeshwanthrao M G</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🌱 I’m currently Working **Associate Software Engineer**
+- 🌱 I’m currently Working as **Associate Software Engineer**
 
 - 📫 How to reach me: **[yeshwanthrao478@gmail.com](mailto:yeshwanthrao478@gmail.com)**
 
