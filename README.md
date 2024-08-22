@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeshwanthrao M G</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionateFullStack developer from India</h3>
 
 - 🌱 I’m currently learning **Frameworks and other technologies**
 
