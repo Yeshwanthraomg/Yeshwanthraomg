@@ -2,7 +2,7 @@
 <h3 align="center">Associate Software Engineer | Full Stack Developer (Java/Spring) | Domain-Driven Solutions</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Banking+Domain+Expertise;Healthcare+Solutions+Developer;E-Commerce+Systems+Specialist" alt="Domain Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Banking+Domain;Healthcare;E-Commerce" alt="Domain Expertise" />
 </div>
 
 ## 🛠️ Technical Arsenal
@@ -32,9 +32,9 @@
 - Core banking integrations
 
 ### Healthcare
-- HIPAA-compliant applications
+- Radiologist flow management
 - Patient data management
-- Appointment scheduling systems
+- RIS, PACS, HIS Services
 - Medical record security
 
 ### E-Commerce
@@ -42,32 +42,3 @@
 - Order processing pipelines
 - Payment gateway integrations
 - Recommendation engines
-
-## 🔐 Spring Security Implementation
-```java
-@Configuration
-@EnableWebSecurity
-public class SecurityConfig extends WebSecurityConfigurerAdapter {
-    
-    @Override
-    protected void configure(HttpSecurity http) throws Exception {
-        http
-            .csrf().disable()
-            .authorizeRequests()
-            .antMatchers("/api/public/**").permitAll()
-            .antMatchers("/api/admin/**").hasRole("ADMIN")
-            .anyRequest().authenticated()
-            .and()
-            .formLogin()
-            .and()
-            .httpBasic()
-            .and()
-            .sessionManagement()
-            .sessionCreationPolicy(SessionCreationPolicy.STATELESS);
-    }
-    
-    @Bean
-    public PasswordEncoder passwordEncoder() {
-        return new BCryptPasswordEncoder();
-    }
-}
